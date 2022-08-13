@@ -10,3 +10,4 @@
 
 * [H-mod commands](h-mod-commands.md)
 * [Utility commands](utility-commands.md)
+* [General Commands](general-commands.md)
